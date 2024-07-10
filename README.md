@@ -128,3 +128,5 @@ Se comenta de la misma forma que en HTML
 Para poder visualizar el código como se escribe en Markdown, utilizamos la barra invertida ( \ ) anteponiendola a los caracteres especiales para que se muestre en código en su totalidad.
 
 \*\*Negrita\*\* y \_Cursiva\_
+
+Prueba para realizar un git add .
